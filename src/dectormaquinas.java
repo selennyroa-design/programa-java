@@ -6,7 +6,7 @@ public class dectormaquinas {
 
         System.out.println("ERES UNA MAQUINA O PERSONA???");
         System.out.println("PRESIONA 1 PARA MAQUINA");
-        System.out.println("PRESIONA 2 PARA HUMANO DEBIL");
+        System.out.println("PRESIONA 2 PARA HUMANO DEBIL");//ghf
         System.out.print("--> ");
         int accion = scanner.nextInt();
 
